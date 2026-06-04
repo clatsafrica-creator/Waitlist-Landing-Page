@@ -1,0 +1,6 @@
+{
+  "name": "CLATS Landing Page",
+  "description": "A modern, playful, and responsive learning platform landing page for Children Learning AI Technology Solution (CLATS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
